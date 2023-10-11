@@ -2,7 +2,7 @@
 - 👀 I’m interested in Security and Privacy
 - 🌱 I’m currently learning JavaScript (first language)
 - 💞️ I’m looking to collaborate on anything that helps me learn. 
-- 📫 How to reach me jim@principledefence.com
+- 📫 How to reach me james.cw@hotmail.com
 
 <!---
 JimWright8328/JimWright8328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
