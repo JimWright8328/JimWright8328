@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimWright8328
 - 👀 I’m interested in Security and Privacy
-- 🌱 I’m currently learning JavaScript (first language)
+- 🌱 I’m currently learning HTML & CSS (first languages)
 - 💞️ I’m looking to collaborate on anything that helps me learn. 
 - 📫 How to reach me james.cw@hotmail.com
 
